@@ -1,4 +1,3 @@
-*
-
-!.config
-!.gitignore
+build.log
+.build
+.config.old
